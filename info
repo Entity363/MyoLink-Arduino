@@ -1,0 +1,6431 @@
+{
+  "uuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+  "path": "Offline/Emg prototype 1",
+  "name": "Emg prototype 1",
+  "content": "",
+  "created_at": "2026-07-17 01:33:09",
+  "updated_at": "2026-11-03 20:52:59",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "974a897803755213eee41799f8874d96",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f58ffc9071dd43f1b0ad4778b35a131e": 2,
+        "29b9854748cb44a6ba93559d05fea274": 2,
+        "a37351cc73cd4c2091f811cc1c387ed6": 3,
+        "96a6ec2e551e7bd0760067eb1fbc790e": 4,
+        "7e40a7af98dd4e29a5ecb2f81053d47c": 2,
+        "ba179396b82b470bbd43584a72ad92b0": 2,
+        "c3f9e3d20f834eaeac8bc4a2c70c3767": 2,
+        "62ae3a2f9fdc43458c5ee128c6cf1e75": 2,
+        "188be488d4fa4a808b814bc59e0aabd7": 4,
+        "c7bc37e0d51e44bdbf22c849c050c01c": 1,
+        "e56d360d5a2a44cab3cd0178f85793d9": 3,
+        "02016a24e38e4be0b637d1ae1c19c4c3": 2,
+        "1a2b7a36f62547999e6f1b8f4a17e9ef": 2,
+        "5ff01e5b28266f76e3c6ac889a7fdd07": 4,
+        "8018870538bc779a3ecebb2659cafb1c": 2,
+        "00077acee9fb45c38123c6219e0e0bea": 5,
+        "c4eb1f5594964b85a1fbd0f109325826": 11,
+        "66470f417b6e4224ad44ad59896288b1": 3,
+        "ee84fbd36e5a4cf48581f07d954c392a": 3,
+        "5c1198972a3a4930b7728f90da4e690c": 4,
+        "ad35c26b832641af8f618daac0211f82": 3,
+        "59ac5a54189d4c1abffd480ec19c3679": 1,
+        "80737bf323414c78be557f951d033a3f": 1,
+        "19a5d69729c240a09a638dabb74448f1": 1,
+        "12fd093669ee47bc8f27bb9f9d6b053f": 3,
+        "a472830e34b048678667dd151e2c5809": 1,
+        "9fcb9fd97c6d42b19283c07c52343d4a": 1,
+        "017245dad55c4ef4898e2884b3b6c554": 3,
+        "8b0e0ef55e0e4895a4e5ebe44f7f9841": 1,
+        "d7a16aea575d40ae9d49c690e5d5e438": 1,
+        "1f36124359b147dc97835a4892a9af52": 1,
+        "3f33fd10f1164080bd070ae310d6ce1b": 1,
+        "9345351e808d47ee92bb712a31883c60": 4,
+        "7585aab868e547fd8d65a73e6c74b523": 2,
+        "bda92de6b8844c21a809cf1b18a30f8a": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          3,
+          "C1206",
+          "C4,C4,C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          6,
+          "C0805",
+          "C5,C5,C5,C6,C6,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          9,
+          "C0603",
+          "C7,C7,C7,C27,C27,C27,C28,C28,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          12,
+          "C0603",
+          "C9,C9,C9,C10,C10,C10,C17,C17,C17,C18,C18,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          24,
+          "C0603",
+          "C12,C12,C12,C16,C16,C16,C19,C19,C19,C20,C20,C20,C23,C24,C25,C25,C26,C26,C29,C29,C29,C30,C30,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          6,
+          "C0603",
+          "C14,C14,C14,C15,C15,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          9,
+          "C0603",
+          "C21,C21,C21,C33,C33,C33,C34,C34,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          6,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN3,CN3,CN3,CN4,CN4,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          5,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN10,CN10,CN11,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "HY2.0-4P-WT",
+          3,
+          "CONN-SMD_HY2.0-4P",
+          "CN12,CN12,CN13",
+          {
+            "Manufacturer Part": "HY2.0-4P-WT",
+            "Manufacturer": "CAX(创都)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C722729"
+          }
+        ],
+        [
+          "LCK-PH13-254110PC60D30-G4PT0",
+          2,
+          "HDR-TH_LCK-PH13-254110PC60D30-G4PT0",
+          "H4,H4",
+          {
+            "Manufacturer Part": "LCK-PH13-254110PC60D30-G4PT0",
+            "Manufacturer": "LCKELEC(联晟欣)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C54950809"
+          }
+        ],
+        [
+          "LCK-PH13-25418PC60D30-G4PT0",
+          4,
+          "HDR-TH_LCK-PH13-25418PC60D30-G4PT0",
+          "H5,H5,H6,H6",
+          {
+            "Manufacturer Part": "LCK-PH13-25418PC60D30-G4PT0",
+            "Manufacturer": "LCKELEC(联晟欣)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C54950807"
+          }
+        ],
+        [
+          "5.49kΩ",
+          3,
+          "R0603",
+          "R1,R1,R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          3,
+          "R0603",
+          "R6,R6,R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "7.87kΩ",
+          3,
+          "R1206",
+          "R7,R7,R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          3,
+          "R0805",
+          "R8,R8,R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "100kΩ",
+          6,
+          "R0603",
+          "R12,R12,R12,R15,R15,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          6,
+          "R0603",
+          "R13,R13,R13,R16,R16,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          3,
+          "R0603",
+          "R14,R14,R18",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          3,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1,U1,U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          6,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3,U3,U3,U11,U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          6,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U7,U7,U10,U10,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "309kΩ",
+          3,
+          "R0603",
+          "U8,U8,U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          3,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9,U9,U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "HB-PH3-25416PB2GOP",
+          2,
+          "HDR-TH_6P-P2.54-V-M",
+          "U16,U16",
+          {
+            "Manufacturer Part": "HB-PH3-25416PB2GOP",
+            "Manufacturer": "HANBO(汉博)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6332199"
+          }
+        ]
+      ],
+      "updateTime": 1790087687,
+      "createTime": 1784244789,
+      "histories": [],
+      "created_at": "2026-07-17 01:33:09",
+      "updated_at": "2026-09-22 16:34:47"
+    },
+    {
+      "uuid": "3035edac69449a06a49843b1741ce647",
+      "title": "Small Electrode ENIG",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "188be488d4fa4a808b814bc59e0aabd7": 1,
+        "c4eb1f5594964b85a1fbd0f109325826": 2,
+        "017245dad55c4ef4898e2884b3b6c554": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          3,
+          "C1206",
+          "C4,C4,C31",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          6,
+          "C0805",
+          "C5,C5,C5,C6,C6,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          9,
+          "C0603",
+          "C7,C7,C7,C27,C27,C27,C28,C28,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          12,
+          "C0603",
+          "C9,C9,C9,C10,C10,C10,C17,C17,C17,C18,C18,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          24,
+          "C0603",
+          "C12,C12,C12,C16,C16,C16,C19,C19,C19,C20,C20,C20,C23,C24,C25,C25,C26,C26,C29,C29,C29,C30,C30,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          6,
+          "C0603",
+          "C14,C14,C14,C15,C15,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          9,
+          "C0603",
+          "C21,C21,C21,C33,C33,C33,C34,C34,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          6,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN3,CN3,CN3,CN4,CN4,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          5,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN10,CN10,CN11,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "HY2.0-4P-WT",
+          3,
+          "CONN-SMD_HY2.0-4P",
+          "CN12,CN12,CN13",
+          {
+            "Manufacturer Part": "HY2.0-4P-WT",
+            "Manufacturer": "CAX(创都)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C722729"
+          }
+        ],
+        [
+          "LCK-PH13-254110PC60D30-G4PT0",
+          2,
+          "HDR-TH_LCK-PH13-254110PC60D30-G4PT0",
+          "H4,H4",
+          {
+            "Manufacturer Part": "LCK-PH13-254110PC60D30-G4PT0",
+            "Manufacturer": "LCKELEC(联晟欣)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C54950809"
+          }
+        ],
+        [
+          "LCK-PH13-25418PC60D30-G4PT0",
+          4,
+          "HDR-TH_LCK-PH13-25418PC60D30-G4PT0",
+          "H5,H5,H6,H6",
+          {
+            "Manufacturer Part": "LCK-PH13-25418PC60D30-G4PT0",
+            "Manufacturer": "LCKELEC(联晟欣)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C54950807"
+          }
+        ],
+        [
+          "5.49kΩ",
+          3,
+          "R0603",
+          "R1,R1,R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          3,
+          "R0603",
+          "R6,R6,R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "7.87kΩ",
+          3,
+          "R1206",
+          "R7,R7,R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          3,
+          "R0805",
+          "R8,R8,R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "100kΩ",
+          6,
+          "R0603",
+          "R12,R12,R12,R15,R15,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          6,
+          "R0603",
+          "R13,R13,R13,R16,R16,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          3,
+          "R0603",
+          "R14,R14,R18",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          3,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1,U1,U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          6,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3,U3,U3,U11,U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          6,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U7,U7,U10,U10,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "309kΩ",
+          3,
+          "R0603",
+          "U8,U8,U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          3,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9,U9,U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "HB-PH3-25416PB2GOP",
+          2,
+          "HDR-TH_6P-P2.54-V-M",
+          "U16,U16",
+          {
+            "Manufacturer Part": "HB-PH3-25416PB2GOP",
+            "Manufacturer": "HANBO(汉博)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6332199"
+          }
+        ]
+      ],
+      "updateTime": 1790087772,
+      "createTime": 1789572020,
+      "histories": [],
+      "created_at": "2026-09-16 17:20:20",
+      "updated_at": "2026-09-22 16:36:12"
+    },
+    {
+      "uuid": "9e1d8851571ea34d1bed91067c84f150",
+      "title": "Amplifier ",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f58ffc9071dd43f1b0ad4778b35a131e": 1,
+        "7e40a7af98dd4e29a5ecb2f81053d47c": 1,
+        "29b9854748cb44a6ba93559d05fea274": 1,
+        "a37351cc73cd4c2091f811cc1c387ed6": 2,
+        "c3f9e3d20f834eaeac8bc4a2c70c3767": 1,
+        "ba179396b82b470bbd43584a72ad92b0": 1,
+        "188be488d4fa4a808b814bc59e0aabd7": 1,
+        "62ae3a2f9fdc43458c5ee128c6cf1e75": 1,
+        "96a6ec2e551e7bd0760067eb1fbc790e": 3,
+        "e56d360d5a2a44cab3cd0178f85793d9": 2,
+        "5ff01e5b28266f76e3c6ac889a7fdd07": 2,
+        "1a2b7a36f62547999e6f1b8f4a17e9ef": 1,
+        "00077acee9fb45c38123c6219e0e0bea": 4,
+        "c4eb1f5594964b85a1fbd0f109325826": 6,
+        "66470f417b6e4224ad44ad59896288b1": 2,
+        "8018870538bc779a3ecebb2659cafb1c": 1,
+        "02016a24e38e4be0b637d1ae1c19c4c3": 1,
+        "ee84fbd36e5a4cf48581f07d954c392a": 2,
+        "5c1198972a3a4930b7728f90da4e690c": 3,
+        "ad35c26b832641af8f618daac0211f82": 2,
+        "12fd093669ee47bc8f27bb9f9d6b053f": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          3,
+          "C1206",
+          "C4,C4,C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          6,
+          "C0805",
+          "C5,C5,C5,C6,C6,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          9,
+          "C0603",
+          "C7,C7,C7,C27,C27,C27,C28,C28,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          12,
+          "C0603",
+          "C9,C9,C9,C10,C10,C10,C17,C17,C17,C18,C18,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          24,
+          "C0603",
+          "C12,C12,C12,C16,C16,C16,C19,C19,C19,C20,C20,C20,C23,C24,C25,C25,C26,C26,C29,C29,C29,C30,C30,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          6,
+          "C0603",
+          "C14,C14,C14,C15,C15,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          9,
+          "C0603",
+          "C21,C21,C21,C33,C33,C33,C34,C34,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          6,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN3,CN3,CN3,CN4,CN4,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          5,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN10,CN10,CN11,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "HY2.0-4P-WT",
+          3,
+          "CONN-SMD_HY2.0-4P",
+          "CN12,CN12,CN13",
+          {
+            "Manufacturer Part": "HY2.0-4P-WT",
+            "Manufacturer": "CAX(创都)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C722729"
+          }
+        ],
+        [
+          "LCK-PH13-254110PC60D30-G4PT0",
+          2,
+          "HDR-TH_LCK-PH13-254110PC60D30-G4PT0",
+          "H4,H4",
+          {
+            "Manufacturer Part": "LCK-PH13-254110PC60D30-G4PT0",
+            "Manufacturer": "LCKELEC(联晟欣)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C54950809"
+          }
+        ],
+        [
+          "LCK-PH13-25418PC60D30-G4PT0",
+          4,
+          "HDR-TH_LCK-PH13-25418PC60D30-G4PT0",
+          "H5,H5,H6,H6",
+          {
+            "Manufacturer Part": "LCK-PH13-25418PC60D30-G4PT0",
+            "Manufacturer": "LCKELEC(联晟欣)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C54950807"
+          }
+        ],
+        [
+          "5.49kΩ",
+          3,
+          "R0603",
+          "R1,R1,R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          3,
+          "R0603",
+          "R6,R6,R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "7.87kΩ",
+          3,
+          "R1206",
+          "R7,R7,R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          3,
+          "R0805",
+          "R8,R8,R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "100kΩ",
+          6,
+          "R0603",
+          "R12,R12,R12,R15,R15,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          6,
+          "R0603",
+          "R13,R13,R13,R16,R16,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          3,
+          "R0603",
+          "R14,R14,R18",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          3,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1,U1,U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          6,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3,U3,U3,U11,U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          6,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U7,U7,U10,U10,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "309kΩ",
+          3,
+          "R0603",
+          "U8,U8,U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          3,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9,U9,U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "HB-PH3-25416PB2GOP",
+          2,
+          "HDR-TH_6P-P2.54-V-M",
+          "U16,U16",
+          {
+            "Manufacturer Part": "HB-PH3-25416PB2GOP",
+            "Manufacturer": "HANBO(汉博)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6332199"
+          }
+        ]
+      ],
+      "updateTime": 1790087688,
+      "createTime": 1789572165,
+      "histories": [],
+      "created_at": "2026-09-16 17:22:45",
+      "updated_at": "2026-09-22 16:34:48"
+    },
+    {
+      "uuid": "a9aa52f60c1b9f9812bbc699667deebe",
+      "title": "Arduino Shield",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "12fd093669ee47bc8f27bb9f9d6b053f": 1,
+        "7585aab868e547fd8d65a73e6c74b523": 1,
+        "bda92de6b8844c21a809cf1b18a30f8a": 1,
+        "9345351e808d47ee92bb712a31883c60": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          2,
+          "C1206",
+          "C4,C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          4,
+          "C0805",
+          "C5,C5,C6,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          6,
+          "C0603",
+          "C7,C7,C27,C27,C28,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          8,
+          "C0603",
+          "C9,C9,C10,C10,C17,C17,C18,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          18,
+          "C0603",
+          "C12,C12,C16,C16,C19,C19,C20,C20,C23,C24,C25,C25,C26,C26,C29,C29,C30,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          4,
+          "C0603",
+          "C14,C14,C15,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          6,
+          "C0603",
+          "C21,C21,C33,C33,C34,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN3,CN3,CN4,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          4,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN10,CN11,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "HY2.0-4P-WT",
+          3,
+          "CONN-SMD_HY2.0-4P",
+          "CN12,CN12,CN13",
+          {
+            "Manufacturer Part": "HY2.0-4P-WT",
+            "Manufacturer": "CAX(创都)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C722729"
+          }
+        ],
+        [
+          "LCK-PH13-254110PC60D30-G4PT0",
+          2,
+          "HDR-TH_LCK-PH13-254110PC60D30-G4PT0",
+          "H4,H4",
+          {
+            "Manufacturer Part": "LCK-PH13-254110PC60D30-G4PT0",
+            "Manufacturer": "LCKELEC(联晟欣)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C54950809"
+          }
+        ],
+        [
+          "LCK-PH13-25418PC60D30-G4PT0",
+          4,
+          "HDR-TH_LCK-PH13-25418PC60D30-G4PT0",
+          "H5,H5,H6,H6",
+          {
+            "Manufacturer Part": "LCK-PH13-25418PC60D30-G4PT0",
+            "Manufacturer": "LCKELEC(联晟欣)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C54950807"
+          }
+        ],
+        [
+          "5.49kΩ",
+          2,
+          "R0603",
+          "R1,R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          2,
+          "R0603",
+          "R6,R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "7.87kΩ",
+          2,
+          "R1206",
+          "R7,R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          2,
+          "R0805",
+          "R8,R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "100kΩ",
+          4,
+          "R0603",
+          "R12,R12,R15,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          4,
+          "R0603",
+          "R13,R13,R16,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          2,
+          "R0603",
+          "R14,R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          2,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1,U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          5,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3,U3,U11,U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          4,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U7,U10,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "309kΩ",
+          2,
+          "R0603",
+          "U8,U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          2,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9,U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "HB-PH3-25416PB2GOP",
+          2,
+          "HDR-TH_6P-P2.54-V-M",
+          "U16,U16",
+          {
+            "Manufacturer Part": "HB-PH3-25416PB2GOP",
+            "Manufacturer": "HANBO(汉博)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6332199"
+          }
+        ]
+      ],
+      "updateTime": 1789572574,
+      "createTime": 1789572374,
+      "histories": [],
+      "created_at": "2026-09-16 17:26:14",
+      "updated_at": "2026-09-16 17:29:34"
+    },
+    {
+      "uuid": "22205587c2bac95c2a8b6a1beeee9f08",
+      "title": "Amplifier Fixed 680nF 105kOhm",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f58ffc9071dd43f1b0ad4778b35a131e": 1,
+        "7e40a7af98dd4e29a5ecb2f81053d47c": 1,
+        "a37351cc73cd4c2091f811cc1c387ed6": 2,
+        "c3f9e3d20f834eaeac8bc4a2c70c3767": 1,
+        "188be488d4fa4a808b814bc59e0aabd7": 1,
+        "62ae3a2f9fdc43458c5ee128c6cf1e75": 1,
+        "96a6ec2e551e7bd0760067eb1fbc790e": 3,
+        "e56d360d5a2a44cab3cd0178f85793d9": 2,
+        "5ff01e5b28266f76e3c6ac889a7fdd07": 2,
+        "1a2b7a36f62547999e6f1b8f4a17e9ef": 1,
+        "00077acee9fb45c38123c6219e0e0bea": 4,
+        "c4eb1f5594964b85a1fbd0f109325826": 6,
+        "66470f417b6e4224ad44ad59896288b1": 2,
+        "02016a24e38e4be0b637d1ae1c19c4c3": 1,
+        "ee84fbd36e5a4cf48581f07d954c392a": 2,
+        "5c1198972a3a4930b7728f90da4e690c": 3,
+        "ad35c26b832641af8f618daac0211f82": 2,
+        "12fd093669ee47bc8f27bb9f9d6b053f": 1,
+        "e0c38c2ef82f478890b329ebf52eab87": 1,
+        "2389dbbbe94c48cdb8236c1ae2b109cd": 1,
+        "1f581eade54c4e7e8a25148683805049": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          3,
+          "C1206",
+          "C4,C4,C31",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          6,
+          "C0805",
+          "C5,C5,C5,C6,C6,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          9,
+          "C0603",
+          "C7,C7,C7,C27,C27,C27,C28,C28,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          12,
+          "C0603",
+          "C9,C9,C9,C10,C10,C10,C17,C17,C17,C18,C18,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          24,
+          "C0603",
+          "C12,C12,C12,C16,C16,C16,C19,C19,C19,C20,C20,C20,C23,C24,C25,C25,C26,C26,C29,C29,C29,C30,C30,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          6,
+          "C0603",
+          "C14,C14,C14,C15,C15,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          9,
+          "C0603",
+          "C21,C21,C21,C33,C33,C33,C34,C34,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          6,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN3,CN3,CN3,CN4,CN4,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          5,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN10,CN10,CN11,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "HY2.0-4P-WT",
+          3,
+          "CONN-SMD_HY2.0-4P",
+          "CN12,CN12,CN13",
+          {
+            "Manufacturer Part": "HY2.0-4P-WT",
+            "Manufacturer": "CAX(创都)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C722729"
+          }
+        ],
+        [
+          "LCK-PH13-254110PC60D30-G4PT0",
+          2,
+          "HDR-TH_LCK-PH13-254110PC60D30-G4PT0",
+          "H4,H4",
+          {
+            "Manufacturer Part": "LCK-PH13-254110PC60D30-G4PT0",
+            "Manufacturer": "LCKELEC(联晟欣)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C54950809"
+          }
+        ],
+        [
+          "LCK-PH13-25418PC60D30-G4PT0",
+          4,
+          "HDR-TH_LCK-PH13-25418PC60D30-G4PT0",
+          "H5,H5,H6,H6",
+          {
+            "Manufacturer Part": "LCK-PH13-25418PC60D30-G4PT0",
+            "Manufacturer": "LCKELEC(联晟欣)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C54950807"
+          }
+        ],
+        [
+          "5.49kΩ",
+          3,
+          "R0603",
+          "R1,R1,R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          3,
+          "R0603",
+          "R6,R6,R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "7.87kΩ",
+          3,
+          "R1206",
+          "R7,R7,U18",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          3,
+          "R0805",
+          "R8,R8,R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "100kΩ",
+          6,
+          "R0603",
+          "R12,R12,R12,R15,R15,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          6,
+          "R0603",
+          "R13,R13,R13,R16,R16,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          3,
+          "R0603",
+          "R14,R14,R18",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          3,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1,U1,U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          6,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3,U3,U3,U11,U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          6,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U7,U7,U10,U10,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "309kΩ",
+          3,
+          "R0603",
+          "U8,U8,U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          3,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9,U9,U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "HB-PH3-25416PB2GOP",
+          2,
+          "HDR-TH_6P-P2.54-V-M",
+          "U16,U16",
+          {
+            "Manufacturer Part": "HB-PH3-25416PB2GOP",
+            "Manufacturer": "HANBO(汉博)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6332199"
+          }
+        ]
+      ],
+      "updateTime": 1793735579,
+      "createTime": 1790087600,
+      "histories": [],
+      "created_at": "2026-09-22 16:33:20",
+      "updated_at": "2026-11-03 20:52:59"
+    },
+    {
+      "uuid": "62f7c852810d14325b878dc706e6999d",
+      "puuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+      "title": "PCB_Emg prototype 1",
+      "filename": "PCB_Emg prototype 1.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7bdec8012728462a85919a4d0d033579": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 2,
+        "f8151fdc728a41ebbc304e11d39e5437": 22,
+        "5c24293556004813ab754b5ceb43b92a": 2,
+        "63ba5c202dd945b1b1ae17509f52f985": 2,
+        "ba433145d6eb4747bc5e19746b57be8f": 1,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 1,
+        "e9f2be06f99c445682dd978d657af63e": 1,
+        "38a56a633b3c424da5baba32fdc950e9": 2,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "806a55eb4d3c40ab838f70f86785d85e": 3,
+        "5461d90c7eae4cdf8ce28fa0e97b3755": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C7,C27,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          4,
+          "C0603",
+          "C9,C10,C17,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          10,
+          "C0603",
+          "C12,C16,C19,C20,C23,C24,C25,C26,C29,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C14,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0603",
+          "C21,C33,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN1,CN2,CN3,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          2,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "ARDUINO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK",
+          1,
+          "UNO_R3_SHIELD_NOLABELS_LOCK",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.49kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R12,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0603",
+          "R13,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          1,
+          "R0603",
+          "R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "309kΩ",
+          1,
+          "R0603",
+          "U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "7.87kΩ",
+          1,
+          "R1206",
+          "R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          1,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          2,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ]
+      ],
+      "updateTime": 1789060137,
+      "createTime": 1788998551,
+      "histories": [],
+      "created_at": "2026-09-10 02:02:31",
+      "updated_at": "2026-09-10 19:08:57"
+    },
+    {
+      "uuid": "ea1f14069433aa1b6a4a25a61419507e",
+      "puuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+      "title": "PCB_Emg prototype 2",
+      "filename": "PCB_Emg prototype 2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7bdec8012728462a85919a4d0d033579": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 2,
+        "f8151fdc728a41ebbc304e11d39e5437": 22,
+        "5c24293556004813ab754b5ceb43b92a": 2,
+        "63ba5c202dd945b1b1ae17509f52f985": 2,
+        "ba433145d6eb4747bc5e19746b57be8f": 1,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 1,
+        "e9f2be06f99c445682dd978d657af63e": 1,
+        "38a56a633b3c424da5baba32fdc950e9": 2,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "806a55eb4d3c40ab838f70f86785d85e": 3,
+        "5461d90c7eae4cdf8ce28fa0e97b3755": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C7,C27,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          4,
+          "C0603",
+          "C9,C10,C17,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          10,
+          "C0603",
+          "C12,C16,C19,C20,C23,C24,C25,C26,C29,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C14,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0603",
+          "C21,C33,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN1,CN2,CN3,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          2,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "ARDUINO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK",
+          1,
+          "UNO_R3_SHIELD_NOLABELS_LOCK",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.49kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R12,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0603",
+          "R13,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          1,
+          "R0603",
+          "R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "309kΩ",
+          1,
+          "R0603",
+          "U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "7.87kΩ",
+          1,
+          "R1206",
+          "R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          1,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          2,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ]
+      ],
+      "updateTime": 1789012090,
+      "createTime": 1789012090,
+      "histories": [],
+      "created_at": "2026-09-10 05:48:10",
+      "updated_at": "2026-09-10 05:48:10"
+    },
+    {
+      "uuid": "53ce2e7bc518473a874f6d29bc84c46d",
+      "puuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+      "title": "PCB_Emg prototype 3",
+      "filename": "PCB_Emg prototype 3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7bdec8012728462a85919a4d0d033579": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 2,
+        "f8151fdc728a41ebbc304e11d39e5437": 22,
+        "5c24293556004813ab754b5ceb43b92a": 2,
+        "63ba5c202dd945b1b1ae17509f52f985": 2,
+        "ba433145d6eb4747bc5e19746b57be8f": 1,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 1,
+        "e9f2be06f99c445682dd978d657af63e": 1,
+        "38a56a633b3c424da5baba32fdc950e9": 2,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "806a55eb4d3c40ab838f70f86785d85e": 3,
+        "5461d90c7eae4cdf8ce28fa0e97b3755": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C7,C27,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          4,
+          "C0603",
+          "C9,C10,C17,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          10,
+          "C0603",
+          "C12,C16,C19,C20,C23,C24,C25,C26,C29,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C14,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0603",
+          "C21,C33,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN1,CN2,CN3,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          2,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "ARDUINO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK",
+          1,
+          "UNO_R3_SHIELD_NOLABELS_LOCK",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.49kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R12,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0603",
+          "R13,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          1,
+          "R0603",
+          "R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "309kΩ",
+          1,
+          "R0603",
+          "U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "7.87kΩ",
+          1,
+          "R1206",
+          "R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          1,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          2,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ]
+      ],
+      "updateTime": 1789089029,
+      "createTime": 1789059816,
+      "histories": [],
+      "created_at": "2026-09-10 19:03:36",
+      "updated_at": "2026-09-11 03:10:29"
+    },
+    {
+      "uuid": "0bc0376f7c8c495e7f6030bbcbb6ed3e",
+      "puuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+      "title": "PCB_Emg prototype 4",
+      "filename": "PCB_Emg prototype 4.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7bdec8012728462a85919a4d0d033579": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 2,
+        "f8151fdc728a41ebbc304e11d39e5437": 22,
+        "5c24293556004813ab754b5ceb43b92a": 2,
+        "63ba5c202dd945b1b1ae17509f52f985": 2,
+        "ba433145d6eb4747bc5e19746b57be8f": 1,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 1,
+        "e9f2be06f99c445682dd978d657af63e": 1,
+        "38a56a633b3c424da5baba32fdc950e9": 2,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "806a55eb4d3c40ab838f70f86785d85e": 3,
+        "5461d90c7eae4cdf8ce28fa0e97b3755": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C7,C27,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          4,
+          "C0603",
+          "C9,C10,C17,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          10,
+          "C0603",
+          "C12,C16,C19,C20,C23,C24,C25,C26,C29,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C14,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0603",
+          "C21,C33,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN1,CN2,CN3,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          2,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "ARDUINO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK",
+          1,
+          "UNO_R3_SHIELD_NOLABELS_LOCK",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.49kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R12,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0603",
+          "R13,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          1,
+          "R0603",
+          "R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "309kΩ",
+          1,
+          "R0603",
+          "U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "7.87kΩ",
+          1,
+          "R1206",
+          "R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          1,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          2,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ]
+      ],
+      "updateTime": 1789097920,
+      "createTime": 1789089108,
+      "histories": [],
+      "created_at": "2026-09-11 03:11:48",
+      "updated_at": "2026-09-11 05:38:40"
+    },
+    {
+      "uuid": "eb4c474c845074c0b49c5a047e7055b1",
+      "puuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+      "title": "PCB_Emg prototype 5",
+      "filename": "PCB_Emg prototype 5.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "3b36663a3c1f4572bdb8c99aebf076bb": 1,
+        "a7fe269454594f4683337f225336e6a7": 2,
+        "933d9fe8bedd4aa8bbbeea7cea7bf85a": 1,
+        "7bdec8012728462a85919a4d0d033579": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 2,
+        "f8151fdc728a41ebbc304e11d39e5437": 24,
+        "5c24293556004813ab754b5ceb43b92a": 2,
+        "63ba5c202dd945b1b1ae17509f52f985": 2,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 1,
+        "e9f2be06f99c445682dd978d657af63e": 1,
+        "38a56a633b3c424da5baba32fdc950e9": 2,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "806a55eb4d3c40ab838f70f86785d85e": 4,
+        "5461d90c7eae4cdf8ce28fa0e97b3755": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C7,C27,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          4,
+          "C0603",
+          "C9,C10,C17,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          10,
+          "C0603",
+          "C12,C16,C19,C20,C23,C24,C25,C26,C29,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C14,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0603",
+          "C21,C33,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN1,CN2,CN3,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          2,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "ARDUINO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK",
+          1,
+          "UNO_R3_SHIELD_NOLABELS_LOCK",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.49kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R12,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0603",
+          "R13,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          1,
+          "R0603",
+          "R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "309kΩ",
+          1,
+          "R0603",
+          "U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "7.87kΩ",
+          1,
+          "R1206",
+          "R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          1,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          2,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ]
+      ],
+      "updateTime": 1789407061,
+      "createTime": 1789097634,
+      "histories": [],
+      "created_at": "2026-09-11 05:33:54",
+      "updated_at": "2026-09-14 19:31:01"
+    },
+    {
+      "uuid": "b9e1d1f5cb3bfc201f4aadec466a63be",
+      "puuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+      "title": "PCB_Emg prototype 6-unflipped",
+      "filename": "PCB_Emg prototype 6-unflipped.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ba433145d6eb4747bc5e19746b57be8f": 1,
+        "3b36663a3c1f4572bdb8c99aebf076bb": 1,
+        "a7fe269454594f4683337f225336e6a7": 2,
+        "933d9fe8bedd4aa8bbbeea7cea7bf85a": 1,
+        "7bdec8012728462a85919a4d0d033579": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 2,
+        "f8151fdc728a41ebbc304e11d39e5437": 22,
+        "5c24293556004813ab754b5ceb43b92a": 2,
+        "63ba5c202dd945b1b1ae17509f52f985": 2,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 1,
+        "e9f2be06f99c445682dd978d657af63e": 1,
+        "38a56a633b3c424da5baba32fdc950e9": 2,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "806a55eb4d3c40ab838f70f86785d85e": 3,
+        "5461d90c7eae4cdf8ce28fa0e97b3755": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C7,C27,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          4,
+          "C0603",
+          "C9,C10,C17,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          10,
+          "C0603",
+          "C12,C16,C19,C20,C23,C24,C25,C26,C29,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C14,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0603",
+          "C21,C33,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN1,CN2,CN3,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          2,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "ARDUINO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK",
+          1,
+          "UNO_R3_SHIELD_NOLABELS_LOCK",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.49kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R12,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0603",
+          "R13,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          1,
+          "R0603",
+          "R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "309kΩ",
+          1,
+          "R0603",
+          "U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "7.87kΩ",
+          1,
+          "R1206",
+          "R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          1,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          2,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ]
+      ],
+      "updateTime": 1789408002,
+      "createTime": 1789407068,
+      "histories": [],
+      "created_at": "2026-09-14 19:31:08",
+      "updated_at": "2026-09-14 19:46:42"
+    },
+    {
+      "uuid": "46da8e49aceca19752f48dd46e4ce48a",
+      "puuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+      "title": "PCB_Emg prototype 6-unflipped copy",
+      "filename": "PCB_Emg prototype 6-unflipped copy.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ba433145d6eb4747bc5e19746b57be8f": 1,
+        "7bdec8012728462a85919a4d0d033579": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 2,
+        "f8151fdc728a41ebbc304e11d39e5437": 24,
+        "5c24293556004813ab754b5ceb43b92a": 2,
+        "63ba5c202dd945b1b1ae17509f52f985": 2,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 1,
+        "e9f2be06f99c445682dd978d657af63e": 1,
+        "38a56a633b3c424da5baba32fdc950e9": 2,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "806a55eb4d3c40ab838f70f86785d85e": 4,
+        "5461d90c7eae4cdf8ce28fa0e97b3755": 3,
+        "3b36663a3c1f4572bdb8c99aebf076bb": 1,
+        "a7fe269454594f4683337f225336e6a7": 2,
+        "933d9fe8bedd4aa8bbbeea7cea7bf85a": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C7,C27,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          4,
+          "C0603",
+          "C9,C10,C17,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          10,
+          "C0603",
+          "C12,C16,C19,C20,C23,C24,C25,C26,C29,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C14,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0603",
+          "C21,C33,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN1,CN2,CN3,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          2,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "ARDUINO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK",
+          1,
+          "UNO_R3_SHIELD_NOLABELS_LOCK",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.49kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R12,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0603",
+          "R13,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          1,
+          "R0603",
+          "R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "309kΩ",
+          1,
+          "R0603",
+          "U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "7.87kΩ",
+          1,
+          "R1206",
+          "R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          1,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          2,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ]
+      ],
+      "updateTime": 1789412815,
+      "createTime": 1789408008,
+      "histories": [],
+      "created_at": "2026-09-14 19:46:48",
+      "updated_at": "2026-09-14 21:06:55"
+    },
+    {
+      "uuid": "92a2daeb60d142ba3280376957434fb1",
+      "puuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+      "title": "PCB_Emg prototype 6-unflipped emg and shield",
+      "filename": "PCB_Emg prototype 6-unflipped emg and shield.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ba433145d6eb4747bc5e19746b57be8f": 1,
+        "7bdec8012728462a85919a4d0d033579": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 2,
+        "f8151fdc728a41ebbc304e11d39e5437": 22,
+        "5c24293556004813ab754b5ceb43b92a": 2,
+        "63ba5c202dd945b1b1ae17509f52f985": 2,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 1,
+        "e9f2be06f99c445682dd978d657af63e": 1,
+        "38a56a633b3c424da5baba32fdc950e9": 2,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "806a55eb4d3c40ab838f70f86785d85e": 3,
+        "5461d90c7eae4cdf8ce28fa0e97b3755": 2,
+        "3b36663a3c1f4572bdb8c99aebf076bb": 1,
+        "a7fe269454594f4683337f225336e6a7": 2,
+        "933d9fe8bedd4aa8bbbeea7cea7bf85a": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C7,C27,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          4,
+          "C0603",
+          "C9,C10,C17,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          10,
+          "C0603",
+          "C12,C16,C19,C20,C23,C24,C25,C26,C29,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C14,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0603",
+          "C21,C33,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN1,CN2,CN3,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          2,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "ARDUINO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK",
+          1,
+          "UNO_R3_SHIELD_NOLABELS_LOCK",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.49kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R12,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0603",
+          "R13,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          1,
+          "R0603",
+          "R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "309kΩ",
+          1,
+          "R0603",
+          "U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "7.87kΩ",
+          1,
+          "R1206",
+          "R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          1,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          2,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ]
+      ],
+      "updateTime": 1789481516,
+      "createTime": 1789412843,
+      "histories": [],
+      "created_at": "2026-09-14 21:07:23",
+      "updated_at": "2026-09-15 16:11:56"
+    },
+    {
+      "uuid": "3b3e884ee606c840afabc082ee85be74",
+      "puuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+      "title": "PCB_Emg prototype FINAL",
+      "filename": "PCB_Emg prototype FINAL.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 24,
+        "806a55eb4d3c40ab838f70f86785d85e": 4,
+        "5461d90c7eae4cdf8ce28fa0e97b3755": 3,
+        "ba433145d6eb4747bc5e19746b57be8f": 1,
+        "7bdec8012728462a85919a4d0d033579": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 2,
+        "5c24293556004813ab754b5ceb43b92a": 2,
+        "63ba5c202dd945b1b1ae17509f52f985": 2,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 1,
+        "e9f2be06f99c445682dd978d657af63e": 1,
+        "38a56a633b3c424da5baba32fdc950e9": 2,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "3b36663a3c1f4572bdb8c99aebf076bb": 1,
+        "a7fe269454594f4683337f225336e6a7": 2,
+        "933d9fe8bedd4aa8bbbeea7cea7bf85a": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C7,C27,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          4,
+          "C0603",
+          "C9,C10,C17,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          10,
+          "C0603",
+          "C12,C16,C19,C20,C23,C24,C25,C26,C29,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C14,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0603",
+          "C21,C33,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN1,CN2,CN3,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          2,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "ARDUINO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK",
+          1,
+          "UNO_R3_SHIELD_NOLABELS_LOCK",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.49kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R12,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0603",
+          "R13,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          1,
+          "R0603",
+          "R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "309kΩ",
+          1,
+          "R0603",
+          "U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "7.87kΩ",
+          1,
+          "R1206",
+          "R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          1,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          2,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ]
+      ],
+      "updateTime": 1789603485,
+      "createTime": 1789481533,
+      "histories": [],
+      "created_at": "2026-09-15 16:12:13",
+      "updated_at": "2026-09-17 02:04:45"
+    },
+    {
+      "uuid": "03de0f9ea610b5413b7a8c111b3ab414",
+      "puuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+      "title": "ENIG Electrode",
+      "filename": "ENIG Electrode.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 2,
+        "806a55eb4d3c40ab838f70f86785d85e": 1,
+        "5461d90c7eae4cdf8ce28fa0e97b3755": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C7,C27,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          4,
+          "C0603",
+          "C9,C10,C17,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          10,
+          "C0603",
+          "C12,C16,C19,C20,C23,C24,C25,C26,C29,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C14,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0603",
+          "C21,C33,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN1,CN2,CN3,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          2,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "ARDUINO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK",
+          1,
+          "UNO_R3_SHIELD_NOLABELS_LOCK",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.49kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R12,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0603",
+          "R13,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          1,
+          "R0603",
+          "R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "309kΩ",
+          1,
+          "R0603",
+          "U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "7.87kΩ",
+          1,
+          "R1206",
+          "R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          1,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          2,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ]
+      ],
+      "updateTime": 1790089434,
+      "createTime": 1789572603,
+      "histories": [],
+      "created_at": "2026-09-16 17:30:03",
+      "updated_at": "2026-09-22 17:03:54"
+    },
+    {
+      "uuid": "73c8d2648943dcfb04f8263774b9ce2a",
+      "puuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+      "title": "Hole Electrode",
+      "filename": "Hole Electrode.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 2,
+        "806a55eb4d3c40ab838f70f86785d85e": 1,
+        "5461d90c7eae4cdf8ce28fa0e97b3755": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C7,C27,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          4,
+          "C0603",
+          "C9,C10,C17,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          10,
+          "C0603",
+          "C12,C16,C19,C20,C23,C24,C25,C26,C29,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C14,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0603",
+          "C21,C33,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN1,CN2,CN3,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          2,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "ARDUINO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK",
+          1,
+          "UNO_R3_SHIELD_NOLABELS_LOCK",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.49kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R12,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0603",
+          "R13,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          1,
+          "R0603",
+          "R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "309kΩ",
+          1,
+          "R0603",
+          "U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "7.87kΩ",
+          1,
+          "R1206",
+          "R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          1,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          2,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ]
+      ],
+      "updateTime": 1789843995,
+      "createTime": 1789572729,
+      "histories": [],
+      "created_at": "2026-09-16 17:32:09",
+      "updated_at": "2026-09-19 20:53:15"
+    },
+    {
+      "uuid": "354b64b21ab32b44b0f7bffad4c06adc",
+      "puuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+      "title": "Amplifier",
+      "filename": "Amplifier.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7bdec8012728462a85919a4d0d033579": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 2,
+        "f8151fdc728a41ebbc304e11d39e5437": 18,
+        "5c24293556004813ab754b5ceb43b92a": 2,
+        "63ba5c202dd945b1b1ae17509f52f985": 1,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 1,
+        "e9f2be06f99c445682dd978d657af63e": 1,
+        "38a56a633b3c424da5baba32fdc950e9": 2,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "806a55eb4d3c40ab838f70f86785d85e": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C7,C27,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          4,
+          "C0603",
+          "C9,C10,C17,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          10,
+          "C0603",
+          "C12,C16,C19,C20,C23,C24,C25,C26,C29,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C14,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0603",
+          "C21,C33,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN1,CN2,CN3,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          2,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "ARDUINO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK",
+          1,
+          "UNO_R3_SHIELD_NOLABELS_LOCK",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.49kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R12,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0603",
+          "R13,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          1,
+          "R0603",
+          "R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "309kΩ",
+          1,
+          "R0603",
+          "U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "7.87kΩ",
+          1,
+          "R1206",
+          "R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          1,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          2,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ]
+      ],
+      "updateTime": 1789844468,
+      "createTime": 1789572761,
+      "histories": [],
+      "created_at": "2026-09-16 17:32:41",
+      "updated_at": "2026-09-19 21:01:08"
+    },
+    {
+      "uuid": "3006c46b45299b492f925ff6f2d4ec2f",
+      "puuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+      "title": "Arduino UNO Shield",
+      "filename": "Arduino UNO Shield.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "63ba5c202dd945b1b1ae17509f52f985": 1,
+        "3b36663a3c1f4572bdb8c99aebf076bb": 1,
+        "a7fe269454594f4683337f225336e6a7": 2,
+        "933d9fe8bedd4aa8bbbeea7cea7bf85a": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C7,C27,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          4,
+          "C0603",
+          "C9,C10,C17,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          10,
+          "C0603",
+          "C12,C16,C19,C20,C23,C24,C25,C26,C29,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C14,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0603",
+          "C21,C33,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN1,CN2,CN3,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          2,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "ARDUINO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK",
+          1,
+          "UNO_R3_SHIELD_NOLABELS_LOCK",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.49kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R12,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0603",
+          "R13,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          1,
+          "R0603",
+          "R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "309kΩ",
+          1,
+          "R0603",
+          "U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "7.87kΩ",
+          1,
+          "R1206",
+          "R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          1,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          2,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ]
+      ],
+      "updateTime": 1789573014,
+      "createTime": 1789572794,
+      "histories": [],
+      "created_at": "2026-09-16 17:33:14",
+      "updated_at": "2026-09-16 17:36:54"
+    },
+    {
+      "uuid": "9cc2d9f422d45733a51bfd7797031dc9",
+      "puuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+      "title": "ENIG Electrode Assembly lines",
+      "filename": "ENIG Electrode Assembly lines.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 2,
+        "806a55eb4d3c40ab838f70f86785d85e": 1,
+        "5461d90c7eae4cdf8ce28fa0e97b3755": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C7,C27,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          4,
+          "C0603",
+          "C9,C10,C17,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          10,
+          "C0603",
+          "C12,C16,C19,C20,C23,C24,C25,C26,C29,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C14,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0603",
+          "C21,C33,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN1,CN2,CN3,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          2,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "ARDUINO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK",
+          1,
+          "UNO_R3_SHIELD_NOLABELS_LOCK",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.49kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R12,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0603",
+          "R13,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          1,
+          "R0603",
+          "R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "309kΩ",
+          1,
+          "R0603",
+          "U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "7.87kΩ",
+          1,
+          "R1206",
+          "R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          1,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          2,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ]
+      ],
+      "updateTime": 1789843991,
+      "createTime": 1789580632,
+      "histories": [],
+      "created_at": "2026-09-16 19:43:52",
+      "updated_at": "2026-09-19 20:53:11"
+    },
+    {
+      "uuid": "aec18cad3a6e88c6f0f5501c681d7244",
+      "puuid": "27f5ee689cce1bd838e4e323eb96c8a8",
+      "title": "Amplifier Fixed 680nF 105kOhm",
+      "filename": "Amplifier Fixed 680nF 105kOhm.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2ee8eb13a0124a108e622ce40c0c25a8": 2,
+        "f8151fdc728a41ebbc304e11d39e5437": 19,
+        "5c24293556004813ab754b5ceb43b92a": 2,
+        "63ba5c202dd945b1b1ae17509f52f985": 1,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "b60f399a7a7e41848b2be1eb49c79141": 1,
+        "e9f2be06f99c445682dd978d657af63e": 1,
+        "38a56a633b3c424da5baba32fdc950e9": 2,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "806a55eb4d3c40ab838f70f86785d85e": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "680nF",
+          1,
+          "C1206",
+          "C4",
+          {
+            "Manufacturer Part": "C3216X7R1H684KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C695155"
+          }
+        ],
+        [
+          "1.5uF",
+          2,
+          "C0805",
+          "C5,C6",
+          {
+            "Manufacturer Part": "C2012X7R1V155KT000N",
+            "Manufacturer": "TDK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C338097"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C7,C27,C28",
+          {
+            "Manufacturer Part": "CL10B104KB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1591"
+          }
+        ],
+        [
+          "4.7uF",
+          4,
+          "C0603",
+          "C9,C10,C17,C18",
+          {
+            "Manufacturer Part": "TCC0603X7R475K100CT",
+            "Manufacturer": "CCTC(三环)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C18185770"
+          }
+        ],
+        [
+          "1uF",
+          10,
+          "C0603",
+          "C12,C16,C19,C20,C23,C24,C25,C26,C29,C30",
+          {
+            "Manufacturer Part": "CL10B105KB8NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5199872"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C14,C15",
+          {
+            "Manufacturer Part": "0603B225K250NT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99228"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0603",
+          "C21,C33,C34",
+          {
+            "Manufacturer Part": "GRM188Z71A106KA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2959727"
+          }
+        ],
+        [
+          "SH-HY2.0-4PW",
+          4,
+          "CONN-TH_ZX-HY2.0-4PWZ-Y",
+          "CN1,CN2,CN3,CN4",
+          {
+            "Manufacturer Part": "SH-HY2.0-4PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261271"
+          }
+        ],
+        [
+          "SH-XHB2.54-8PW",
+          2,
+          "CONN-TH_8P-P2.50_SH-XHB2.54-8PW",
+          "CN10,CN11",
+          {
+            "Manufacturer Part": "SH-XHB2.54-8PW",
+            "Manufacturer": "深海电子",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53261374"
+          }
+        ],
+        [
+          "ARDUINO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK",
+          1,
+          "UNO_R3_SHIELD_NOLABELS_LOCK",
+          "J2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.49kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603BRD075K49L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C861486"
+          }
+        ],
+        [
+          "4.02kΩ",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Manufacturer Part": "RT0603BRD074K02L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C705781"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R12,R15",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0603",
+          "R13,R16",
+          {
+            "Manufacturer Part": "RT0603FRE0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C469659"
+          }
+        ],
+        [
+          "105kΩ",
+          1,
+          "R0603",
+          "R14",
+          {
+            "Manufacturer Part": "0603WAF1053T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16840"
+          }
+        ],
+        [
+          "309kΩ",
+          1,
+          "R0603",
+          "U8",
+          {
+            "Manufacturer Part": "FRC0603F3093TS",
+            "Manufacturer": "FOJAN(富捷)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2999532"
+          }
+        ],
+        [
+          "7.87kΩ",
+          1,
+          "R1206",
+          "R7",
+          {
+            "Manufacturer Part": "RT1206BRD077K87L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C870894"
+          }
+        ],
+        [
+          "400Ω",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Manufacturer Part": "TR0805B400RP0525Z",
+            "Manufacturer": "EVER OHMS(天二科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C153298"
+          }
+        ],
+        [
+          "AD8295ACPZ-WP",
+          1,
+          "LFCSP-16_L4.0-W4.0-P0.65-BL",
+          "U1",
+          {
+            "Manufacturer Part": "AD8295ACPZ-WP",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7459085"
+          }
+        ],
+        [
+          "LM27761DSGR",
+          2,
+          "WSON-8_L2.0-W2.0-P0.65-BL-EP",
+          "U7,U10",
+          {
+            "Manufacturer Part": "LM27761DSGR",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129351"
+          }
+        ],
+        [
+          "XC6206P252MR_C5148689",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U9",
+          {
+            "Manufacturer Part": "XC6206P252MR",
+            "Manufacturer": "HXY MOSFET(华轩阳电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5148689"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ],
+        [
+          "ADA4177-2ARZ-R7",
+          2,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U11,U12",
+          {
+            "Manufacturer Part": "ADA4177-2ARZ-R7",
+            "Manufacturer": "ADI(亚德诺)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C654051"
+          }
+        ]
+      ],
+      "updateTime": 1790089425,
+      "createTime": 1790087791,
+      "histories": [],
+      "created_at": "2026-09-22 16:36:31",
+      "updated_at": "2026-09-22 17:03:45"
+    }
+  ],
+  "sort": [
+    "974a897803755213eee41799f8874d96",
+    "3035edac69449a06a49843b1741ce647",
+    "9e1d8851571ea34d1bed91067c84f150",
+    "a9aa52f60c1b9f9812bbc699667deebe",
+    "22205587c2bac95c2a8b6a1beeee9f08"
+  ],
+  "title": "Emg prototype 1",
+  "foldername": "Emg prototype 1",
+  "schfilename": "Emg prototype 1.json",
+  "schfilemtime": 1793735579830
+}
