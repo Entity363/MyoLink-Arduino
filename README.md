@@ -1,4 +1,4 @@
-Implementation of the MyoLink paper(2022) Analog Front End to work with an Arduino UNO shield.
+Implementation of the [MyoLink paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9762559) Analog Front End to work with an Arduino UNO shield.
 
 Current issues:
 - Arduino ADC has too low of a resolution
