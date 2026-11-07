@@ -1,4 +1,4 @@
-Implementation of the [MyoLink paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9762559) Analog Front End to work with an Arduino UNO shield.
+Implementation of the [MyoLink paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9762559) Analog Front End to work with an Arduino UNO shield. Made in EasyEDA.
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/f37263e3-59b6-49bd-8dc3-d6f796b996ec" />
 
 Current issues:
